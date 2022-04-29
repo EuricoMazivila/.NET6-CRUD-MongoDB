@@ -1,0 +1,10 @@
+bin/
+obj/
+/packages/
+riderModule.iml
+/_ReSharper.Caches/
+appsettings.Development.json
+/.idea/.idea.CRUDMongoDB/.idea/.name
+
+/API/bin/
+/API/obj/
